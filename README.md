@@ -1,5 +1,2 @@
 # practice
 
-
-
-yes, do it
